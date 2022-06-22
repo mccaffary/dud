@@ -44,8 +44,8 @@ should be written/rewritten to
 ```
 cond1
 	&& cond2
-	&& (cond3
-		|| cond4
+	&& (
+	   cond3|| cond4
 	)
 ```
 .
